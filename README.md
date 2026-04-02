@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5B041&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Software+Engineering+%26+Architecture+%E2%9C%A6;%E2%9C%A6+AI+%26+Computer+Vision+Explorer+%E2%9C%A6;%E2%9C%A6+Open+Source+Code+Contributor+%E2%9C%A6" alt="Typing SVG" />
 </p>
 
-
-
 </div>
-
-
 
 <div align="center">
 
@@ -24,7 +20,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F5B041&labelColor=000000" />
 </div>
 
-<br>
 
 <div align="center">
   <h3>✧ ━━━━━━━━━━━━━━ ✦ HIGHLIGHTED PROJECTS ✦ ━━━━━━━━━━━━━━ ✧</h3>
@@ -32,7 +27,6 @@
 
 
 
-<br>
 
 * 🧠 <a href="https://github.com/MohamedAli1937/Alzheimer-s-MRI-Prediction-System" style="color: #60A5FA; font-weight: bold; text-decoration: none;">Alzheimer's MRI Prediction System</a> - Early detection system for Alzheimer's disease using MRI scans. <sub style="color: #A0AEC0;">*(TensorFlow, Keras, CNN, Python)*</sub>
 * 📦 <a href="https://github.com/MohamedAli1937/KIBRA-Smart-Packing" style="color: #60A5FA; font-weight: bold; text-decoration: none;">KIBRA Smart Packing</a> - AI-powered 3D space optimization and packing logistics system. <sub style="color: #A0AEC0;">*(TypeScript, Gemini Pro)*</sub>
@@ -40,29 +34,27 @@
 * 👤 <a href="https://github.com/MohamedAli1937/Face-Detection" style="color: #60A5FA; font-weight: bold; text-decoration: none;">Face Detection</a> - High-precision facial recognition across various environments. <sub style="color: #A0AEC0;">*(CV Algorithms, Python)*</sub>
 * 😊 <a href="https://github.com/MohamedAli1937/Sentiment-Analysis-Web-App" style="color: #60A5FA; font-weight: bold; text-decoration: none;">Sentiment Analysis Web App</a> - Real-time NLP web platform decoding text into emotional coordinates. <sub style="color: #A0AEC0;">*(NLP, Web App, Python)*</sub>
 * 💻 <a href="https://github.com/MohamedAli1937/Cpp-Shell" style="color: #60A5FA; font-weight: bold; text-decoration: none;">Cpp-Shell</a> - Custom command interpreter demonstrating fundamental OS and architecture mastery. <sub style="color: #A0AEC0;">*(C++, Systems Programming)*</sub>
-<br>
+
 <div align="center">
-</div>
-
-
-
-
-
-<br>
-<div align="center">
-  <h3>✧ ━━━━━━━━━━━━━━ ✦ ACTIVITY & STATISTICS ✦ ━━━━━━━━━━━━━━ ✧</h3>
+  <h3 style="color:#F5B041;">✧ ━━━━━━━━━━━━━━ ✦ ACTIVITY & STATISTICS ✦ ━━━━━━━━━━━━━━ ✧</h3>
   <br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAli1937&hide_border=true&bg_color=0F172A&color=F8FAFC&line=F5B041&point=F5B041&area=true&height=250" alt="Contribution Graph" />
-   </p> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAli1937&hide_border=true&bg_color=0F172A&color=F8FAFC&line=F5B041&point=F5B041&area=true&height=200" 
+       alt="Contribution Graph" 
+       style="width: 100%; max-width: 900px; height: auto; margin-bottom: 20px;" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAli1937&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F5B041&icon_color=F5B041&text_color=F8FAFC&ring_color=F5B041" 
+         alt="GitHub Stats" 
+         style="width: 45%; min-width: 300px; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAli1937&hide_border=true&background=0F172A&ring=F5B041&fire=F5B041&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&statDates=F8FAFC" 
+         alt="GitHub Streak" 
+         style="width: 45%; min-width: 300px; height: auto;" />
+  </div>
 
-  <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAli1937&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F5B041&icon_color=F5B041&text_color=F8FAFC&ring_color=F5B041" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAli1937&hide_border=true&background=0F172A&ring=F5B041&fire=F5B041&currStreakLabel=F8FAFC&sideLabels=F8FAFC&dates=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&statDates=F8FAFC" alt="GitHub Streak" />
-  </p>
-
-  <img height="100" src="https://github-profile-trophy.screw-hand.vercel.app/?username=MohamedAli1937&theme=gruvbox&no-bg=true&no-frame=true&column=-1&margin-w=15" alt="GitHub Trophy" />
-
+<div>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=MohamedAli1937&theme=gruvbox&no-bg=true&no-frame=true&column=-1&margin-w=15" 
+       alt="GitHub Trophy" 
+       style="width: 100%; max-width: 900px; height: auto;" />
+</div>
 </div>
 <div align="center">
   <h3>✧ ━━━━━━━━━━━━━━ ✦ DOMAINS OF EXPLORATION ✦ ━━━━━━━━━━━━━━ ✧</h3>
@@ -110,7 +102,6 @@ $ Shell Development
 </table>
 <div align="center">
   <h3>✧ ━━━━━━━━━━━━━━ ✦ CONTACT INFORMATION ✦ ━━━━━━━━━━━━━━ ✧</h3>
-  <br>
 
   <p align="center">
     <a href="https://github.com/MohamedAli1937">
@@ -125,8 +116,6 @@ $ Shell Development
       <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-0F172A?style=for-the-badge&logo=gmail&logoColor=F5B041&labelColor=000000" alt="Email" />
     </a>
   </p>
-
-  <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ORIGINS-TUNISIA_🇹🇳-0F172A?style=for-the-badge&logo=googlemaps&logoColor=F5B041&labelColor=000000" /> 
