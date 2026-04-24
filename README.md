@@ -30,7 +30,7 @@ Coming soon…
   <a href="https://github.com/MohamedAli1937">
     <img src="https://img.shields.io/badge/GITHUB-MohamedAli1937-0F172A?style=for-the-badge&logo=github&logoColor=F5B041&labelColor=000000" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-ali-7b8519384/">
+  <a href="https://www.linkedin.com/in/mohamed-ali-ben-belghith-7b8519384/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=F5B041&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedali019b@gmail.com">
