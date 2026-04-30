@@ -11,7 +11,7 @@ I love <strong>math</strong> and <strong>physics</strong>, and I’m driven by c
 <!-- Personal Website -->
 <h2 align="center">🌐 Personal Website</h2>
 <p align="center">
-Coming soon…
+A desert-themed portfolio blending AI, Mathematics, and Software Engineering: 👉​ <a href="https://mohamedali1937.github.io/">Visit Website</a>
 </p>
 
 <!-- GitHub Stats -->
