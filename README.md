@@ -1,45 +1,57 @@
-<!-- Profile Header -->
+<!-- Header -->
 <h1 align="center">Hey, I'm Mohamed Ali 👋</h1>
 
-<!-- About Me -->
-<h2 align="center">🧑‍💻 About Me</h2>
-<p align="center">
-I’m a SWE student from Tunisia, passionate about <strong>AI, ML, and Computer Vision</strong>.<br>
-I love <strong>math</strong> and <strong>physics</strong>, and I’m driven by curiosity to understand how everything works.
+<!-- About -->
+<h2>🧑‍💻 About Me</h2>
+<p>
+I’m a Software Engineering student from Tunisia, focused on <strong>AI, ML, Computer Vision, and Blockchain</strong>.
+I enjoy diving deep into <strong>mathematics</strong> and <strong>physics</strong> to understand systems at a fundamental level.
 </p>
 
-<!-- Personal Website -->
-<h2 align="center">🌐 Personal Website</h2>
-<p align="center">
-A desert-themed portfolio blending AI, Mathematics, and Software Engineering: 👉​ <a href="https://mohamedali1937.github.io/">Visit Website</a>
+<p>
+🌐 <a href="https://mohamedali1937.github.io/">Portfolio</a>
 </p>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAli1937&show_icons=true&rank_icon=github&bg_color=0F172A&title_color=F5B041&icon_color=F5B041&text_color=F8FAFC&ring_color=F5B041" 
-       alt="GitHub Stats" 
-       width="450" />
-</div>
-</div>
+---
 
+<!-- Tech Stack -->
+<h2>⚙️ Tech Stack</h2>
 
-<!-- Socials / Contact Badges -->
-<h2 align="center">📞 Get in Touch</h2>
-<div align="center">
-  <a href="https://github.com/MohamedAli1937">
-    <img src="https://img.shields.io/badge/GITHUB-MohamedAli1937-0F172A?style=for-the-badge&logo=github&logoColor=F5B041&labelColor=000000" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ali-ben-belghith-7b8519384/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=F5B041&labelColor=000000" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohamedali019b@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-0F172A?style=for-the-badge&logo=gmail&logoColor=F5B041&labelColor=000000" alt="Email" />
-  </a>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,ts,html,css,php,react,nodejs,symfony,spring,mysql,postgres,sklearn,pytorch,tensorflow,opencv,solidity,git,github,docker,bash,vscode" />
+</p>
 
-<!-- Location & Timezone -->
-<div align="center" style="margin-top:10px;">
-  <img src="https://img.shields.io/badge/ORIGINS-TUNISIA_🇹🇳-0F172A?style=for-the-badge&logo=googlemaps&logoColor=F5B041&labelColor=000000" /> 
-  <img src="https://img.shields.io/badge/TIME%20ZONE-UTC+1-0F172A?style=for-the-badge&logo=clockify&logoColor=F5B041&labelColor=000000" />
-</div>
+---
+
+<!-- Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center"> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohamedAli1937&show_icons=true&rank_icon=github&bg_color=0F172A&title_color=F5B041&icon_color=F5B041&text_color=F8FAFC&ring_color=F5B041" width="420"/> </p>
+
+---
+
+<!-- Contact + Location -->
+<h2>📞 Contact</h2>
+
+<p>
+<a href="https://github.com/MohamedAli1937">
+  <img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-ali-ben-belghith-7b8519384/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+<a href="mailto:mohamedali019b@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+</a>
+<a href="https://discord.com/users/medali019">
+  <img src="https://skillicons.dev/icons?i=discord" height="35"/>
+</a>
+<a href="https://matrix.to/#/@medali__:matrix.org">
+  <img src="https://cdn.simpleicons.org/element/0DB787" height="35"/>
+</a>
+</p>
+
+<p>
+📍 Tunisia 🇹🇳 • UTC+1
+</p>
