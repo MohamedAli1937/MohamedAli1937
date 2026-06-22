@@ -18,7 +18,7 @@ I enjoy diving deep into <strong>mathematics</strong> and <strong>physics</stron
 <h2>⚙️ Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,ts,html,css,php,react,nodejs,symfony,spring,mysql,postgres,sklearn,pytorch,tensorflow,opencv,solidity,git,github,docker,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,ts,html,css,php,react,nodejs,symfony,spring,mysql,postgres,sklearn,pytorch,tensorflow,opencv,solidity,git,github,docker,bash,vscode,fastapi,graphql" />
 </p>
 
 ---
@@ -49,6 +49,9 @@ I enjoy diving deep into <strong>mathematics</strong> and <strong>physics</stron
 </a>
 <a href="https://matrix.to/#/@medali__:matrix.org">
   <img src="https://cdn.simpleicons.org/element/0DB787" height="35"/>
+</a>
+<a href="https://dev.to/mohamed_ali_65506dccb2680">
+  <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="35"/>
 </a>
 </p>
 
