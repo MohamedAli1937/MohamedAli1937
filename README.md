@@ -53,6 +53,9 @@ I enjoy diving deep into <strong>mathematics</strong> and <strong>physics</stron
 <a href="https://dev.to/mohamed_ali_65506dccb2680">
   <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="35"/>
 </a>
+<a href="https://orcid.org/0009-0004-8560-6673">
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="35"/>
+</a>
 </p>
 
 <p>
